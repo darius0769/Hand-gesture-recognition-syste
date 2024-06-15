@@ -1,0 +1,14 @@
+0 Question
+1 Dislike
+2 Grab
+3 You
+4 Good luck
+5 I hate you
+6 I love you
+7 Thank you
+8 No
+9 Yes
+10 Call me
+11 Peace
+12 I am OK
+13 Hello
